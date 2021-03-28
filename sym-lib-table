@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name New_Library_1)(type Legacy)(uri "C:/Users/Tudor/Desktop/Timer LED TM1637 Arduino/New_Library_1.lib")(options "")(descr ""))
+  (lib (name Timer-LED-TM1637-Arduino-rescue)(type Legacy)(uri "${KIPRJMOD}/Timer LED TM1637 Arduino-rescue.lib")(options "")(descr ""))
+)
